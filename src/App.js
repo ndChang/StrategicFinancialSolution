@@ -2,7 +2,6 @@ import React from "react";
 
 //used to fetch data from external source.
 import axios from "axios";
-import { unstable_batchedUpdates } from "react-dom";
 
 //Styles object for HTML.
 const styles = {
